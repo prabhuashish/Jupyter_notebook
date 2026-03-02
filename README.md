@@ -1,4 +1,4 @@
-This notebook is a project to select a customer analyst to launch a new way of payment by a company, This analyst will show how the data tell to select 
+This notebook is a project to select a customer analyst to launch a new way of payment by a company, This analysis will show how the data tell to select 
 Untapped Market from Online transaction - 
 1. People with age group of 18 -25 accounts to ~26% of customer base in the data
 2. Avg annual income of this group is less than 50k
